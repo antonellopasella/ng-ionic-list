@@ -4,6 +4,12 @@ https://github.com/candelibas/awesome-ionic2
 
 https://github.com/Alexintosh/Awesome-Ionic
 
+
+#Use Font Awesome icons with Ionic Framework tabs. Includes icons from Font Awesome 4.5.0
+
+
+https://github.com/brandonpassley/Font-Awesome-For-Ionic-Tabs
+
 #Barcode
 
 https://www.thepolyglotdeveloper.com/2016/02/add-barcode-scanning-functionality-to-your-ionic-2-app/
